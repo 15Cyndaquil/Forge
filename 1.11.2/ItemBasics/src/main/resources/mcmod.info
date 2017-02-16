@@ -1,0 +1,16 @@
+[
+{
+  "modid": "item_basics",
+  "name": "Item Basics",
+  "description": "All the needed files to add Items to Minecraft.",
+  "version": "1.0",
+  "mcversion": "1.11.2",
+  "url": "https://github.com/15Cyndaquil/Forge",
+  "updateUrl": "",
+  "authorList": ["15Cyndaquil"],
+  "credits": "15Cyndaquil",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
