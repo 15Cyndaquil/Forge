@@ -1,0 +1,16 @@
+[
+{
+  "modid": "test",
+  "name": "Test Mod",
+  "description": "Tester Mod.",
+  "version": "Pre-Alpha",
+  "mcversion": "1.11.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["15Cyndaquil"],
+  "credits": "15Cyndaquil",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

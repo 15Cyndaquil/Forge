@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NewTestForge.iml" filepath="$PROJECT_DIR$/.idea/modules/NewTestForge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NewTestForge_api.iml" filepath="$PROJECT_DIR$/.idea/modules/NewTestForge_api.iml" group="NewTestForge" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NewTestForge_main.iml" filepath="$PROJECT_DIR$/.idea/modules/NewTestForge_main.iml" group="NewTestForge" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NewTestForge_test.iml" filepath="$PROJECT_DIR$/.idea/modules/NewTestForge_test.iml" group="NewTestForge" />
+    </modules>
+  </component>
+</project>
